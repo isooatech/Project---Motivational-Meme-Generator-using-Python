@@ -1,0 +1,1 @@
+The project seeks to generate texts on images
